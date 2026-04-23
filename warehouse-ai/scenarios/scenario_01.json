@@ -1,0 +1,23 @@
+{
+    "width": 10,
+    "height": 10,
+    "robot_start": [
+        0,
+        0
+    ],
+    "items": [
+        [
+            9,
+            9
+        ]
+    ],
+    "shelves": [
+        [
+            2,
+            2,
+            6,
+            1
+        ]
+    ],
+    "obstacles": []
+}
